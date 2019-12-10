@@ -4,10 +4,6 @@
   </a>
   <br>
   <br>
-
-  [![npm][npm]][npm-url]
-  [![deps][deps]][deps-url]
-
 </div>
 
 # Developers: <a href="https://vk.com/dexmp">DexMP</a>
