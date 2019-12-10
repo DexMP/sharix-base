@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/VKCOM">
+  <a href="https://github.com/DexMP">
     <img width="100" height="100" src="https://sharix.dexmp.now.sh">
   </a>
   <br>
