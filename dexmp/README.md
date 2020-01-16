@@ -6,4 +6,4 @@
   <br>
 </div>
 
-# Developers: <a href="https://vk.com/dexmp">DexMP</a>
+# Developer: <a href="https://vk.com/dexmp">DexMP</a>
